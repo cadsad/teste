@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 type="stream' tvg-id="Cartoon Netwoork"
+http://pl.server.kecho.xyz/FHD_CARTOON_NETWORK/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
+#EXTINF:-1 type="stream' tvg-id="CineMax"
+http://us14.server.kpbravo.xyz/HD_CINEMAX/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
+#EXTINF:-1 type="stream' tvg-id="AXN"
+http://us12.server.kkcharlie.xyz/HD_AXN/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
+#EXTINF:-1 type="stream' tvg-id="SBT"
+http://pl.server.kkfoxtrot.xyz/HD_SBT/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
+#EXTINF:-1 type="stream' tvg-id=""TCPremium
+http://ge.server.kwhiskey.live/HD_TC_PREMIUM/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
+#EXTINF:-1 type="stream' tvg-id="MegaPix"
+http://ge2.server.kudabeta.live/HD_MEGAPIX/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
+#EXTINF:-1 type="stream' tvg-id="Premiere"
+http://pl.server.kkecho.xyz/HD_PFC_CLUBES/video.m3u8?token=29feea0f01e4f661d53256ef3dbeb711
