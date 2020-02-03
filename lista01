@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 type="stream' tvg-id="Cartoon Netwoork"
 
-#EXTINF:-1 type="stream' tvg-id="CineMax"
-
+#EXTINF:-1 type="stream' tvg-id="CineMaxsa"
+https://live.multicanais.com/live/telecinepipocahd/video.m3u8?md5=-ZtOGoiL1gv2K6ZEz-KnmA&expires=1580750309
 #EXTINF:-1 type="stream' tvg-id="AXN"
 
 #EXTINF:-1 type="stream' tvg-id="SBT"
