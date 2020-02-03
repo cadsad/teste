@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 type="stream' tvg-id="Cartoon Netwoork"
 
-#EXTINF:-1 type="stream' tvg-id="CineMaxsa"
-https://live.multicanais.com/live/telecinepipocahd/video.m3u8?md5=-ZtOGoiL1gv2K6ZEz-KnmA&expires=1580750309
+#EXTINF:-1 type="stream' tvg-id="CineMaxe"
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_8afd478d524bf14451acccad07884f0dd4ba0208/playlist.m3u8
 #EXTINF:-1 type="stream' tvg-id="AXN"
 
 #EXTINF:-1 type="stream' tvg-id="SBT"
@@ -15,4 +15,4 @@ https://live.multicanais.com/live/telecinepipocahd/video.m3u8?md5=-ZtOGoiL1gv2K6
 EXTINF:-1 tvg-id="Telecinepremiumhd101.hdbr" tvg-name="TELECINE PREMIUM HD²" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="TELECINE",TELECINE PREMIUM HD²
 
 #EXTINF:-1 tvg-id="Telecinepipocahd101.hdbr" tvg-name="TELECINE PIPOCA HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="TELECINE",TELECINE PIPOCA HD²
-https://live.multicanais.com/live/telecinepipocahd/video.m3u8?md5=-ZtOGoiL1gv2K6ZEz-KnmA&expires=1580750309
+
